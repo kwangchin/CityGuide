@@ -1,0 +1,354 @@
+TCityGuide
+v7
+r0
+t295376321.092594
+cCheck dependencies
+cProcessInfoPlistFile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/Info.plist" CityGuide-Info.plist
+cCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib"
+cCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib"
+cCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib"
+cProcessPCH /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch.gch CityGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/main.o "/Users/chinmac/Documents/My Applications/CityGuide/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuideDelegate.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/RootController.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/City.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide" normal i386
+cGenerateDSYMFile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app.dSYM" "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide"
+cTouch "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BE595010000000000000110
+t1273337089
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/chinmac/Documents/My Applications/CityGuide/CityGuide_Prefix.pch
+c000000004BEAC93500000000000000BB
+t1273678133
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.h
+c000000004BEAD17500000000000001B0
+t1273680245
+s432
+i<Foundation/Foundation.h>
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m
+c000000004BEAD1BA000000000000016A
+t1273680314
+s362
+i"City.h"
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.h
+c000000004BEAD1E60000000000000215
+t1273680358
+s533
+i<UIKit/UIKit.h>
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m
+c000000004BEAD28800000000000003F9
+t1273680520
+s1017
+i"CityGuideDelegate.h"
+i"RootController.h"
+i"City.h"
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.h
+c000000004BEAD7DB0000000000000184
+t1273681883
+s388
+i<UIKit/UIKit.h>
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m
+c000000004BEADCB70000000000000AC2
+t1273683127
+s2754
+i"RootController.h"
+i"CityGuideDelegate.h"
+i"City.h"
+
+N/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib
+c000000004BEACA550000000000004C72
+t1273678421
+s19570
+
+N/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib
+c000000004BEADD970000000000004E5C
+t1273683351
+s20060
+
+N/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib
+c000000004BEACFEA00000000000049D1
+t1273679850
+s18897
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/City.o
+t1273683433
+s9968
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuide.LinkFileList
+c000000004BEAD97A0000000000000247
+t1273682298
+s583
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuideDelegate.o
+t1273683433
+s44272
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/RootController.o
+t1273683433
+s50396
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/main.o
+t1273683433
+s5948
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app
+t1273683434
+s272
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app.dSYM
+t1273683434
+s102
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide
+t1273683434
+s26196
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/Info.plist
+t1273683431
+s649
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/MainWindow-iPad.nib
+t1273683432
+s1109
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/MainWindow.nib
+t1273683432
+s1109
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/PkgInfo
+t1273683431
+s8
+
+N/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/RootController.nib
+t1273683432
+s1175
+
+N/Users/chinmac/Documents/My Applications/CityGuide/main.m
+c000000004BEAC9350000000000000164
+t1273678133
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch.gch
+t1273683433
+s13510544
+
+N/var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-dghtpdackiagqmegxxojagmtmeoz/CityGuide_Prefix.pch.gch
+t1273682299
+s12727760
+
+NCityGuide-Info.plist
+c000000004BEADD9700000000000003CE
+t1273683351
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295376321#295376321#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/City.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295376233.831789
+e295376233.912307
+r1
+xCompileC
+xbuild/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/City.o
+x/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m295376233#295376233#0(0"0(0#0#65"/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m4300911832#2118"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch -c "/Users/chinmac/Documents/My Applications/CityGuide/Classes/City.m" -o "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/City.o"0#
+
+CCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuideDelegate.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295376233.719417
+e295376233.831668
+r1
+xCompileC
+xbuild/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuideDelegate.o
+x/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m295376233#295376233#0(0"0(0#0#78"/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m4300911832#2144"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch -c "/Users/chinmac/Documents/My Applications/CityGuide/Classes/CityGuideDelegate.m" -o "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuideDelegate.o"0#
+
+CCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/RootController.o "/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295376233.782126
+e295376233.923058
+r1
+xCompileC
+xbuild/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/RootController.o
+x/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m295376233#295376233#0(0"0(0#0#75"/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m4300911832#2138"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch -c "/Users/chinmac/Documents/My Applications/CityGuide/Classes/RootController.m" -o "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/RootController.o"0#
+
+CCompileC build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/main.o "/Users/chinmac/Documents/My Applications/CityGuide/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295376233.717922
+e295376233.782020
+r1
+xCompileC
+xbuild/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/main.o
+x/Users/chinmac/Documents/My Applications/CityGuide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/chinmac/Documents/My Applications/CityGuide/main.m295376233#295376233#0(0"0(0#0#57"/Users/chinmac/Documents/My Applications/CityGuide/main.m4300911832#2110"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch -c "/Users/chinmac/Documents/My Applications/CityGuide/main.m" -o "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib"
+s295376231.926079
+e295376232.244539
+r1
+xCompileXIB
+x/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295376231#295376232#0(0"0(0#0#65"/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib4300911832#526"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/MainWindow.nib" "/Users/chinmac/Documents/My Applications/CityGuide/MainWindow.xib"0#
+
+CCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib"
+s295376232.244638
+e295376232.543035
+r1
+xCompileXIB
+x/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib295376232#295376232#0(0"0(0#0#85"/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib4300911832#551"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/MainWindow-iPad.nib" "/Users/chinmac/Documents/My Applications/CityGuide/Resources-iPad/MainWindow-iPad.xib"0#
+
+CCompileXIB "/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib"
+s295376231.936206
+e295376232.416534
+r1
+xCompileXIB
+x/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib
+lSLF07#2@29"CompileXIB RootController.xib295376231#295376232#0(0"0(0#0#69"/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib4300911832#534"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/RootController.nib" "/Users/chinmac/Documents/My Applications/CityGuide/RootController.xib"0#
+
+CGenerateDSYMFile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app.dSYM" "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide"
+s295376234.068831
+e295376234.086970
+r1
+xGenerateDSYMFile
+x/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app.dSYM
+x/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide
+lSLF07#2@119"GenerateDSYMFile build/Release-iphonesimulator/CityGuide.app.dSYM build/Release-iphonesimulator/CityGuide.app/CityGuide295376234#295376234#0(0"0(0#0#104"/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide4300911832#435"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide" -o "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app.dSYM"0#
+
+CLd "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide" normal i386
+s295376233.923156
+e295376234.068731
+r1
+xLd
+x/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide
+xnormal
+xi386
+lSLF07#2@109"Link /Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide295376233#295376234#0(0"0(0#0#0"4300911832#950"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" -filelist "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/Objects-normal/i386/CityGuide.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/CityGuide"0#
+
+CProcessInfoPlistFile "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/Info.plist" CityGuide-Info.plist
+s295376231.906023
+e295376231.925981
+r1
+xProcessInfoPlistFile
+x/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/Info.plist
+xCityGuide-Info.plist
+lSLF07#2@28"Process CityGuide-Info.plist295376231#295376231#0(0"0(0#0#71"/Users/chinmac/Documents/My Applications/CityGuide/CityGuide-Info.plist4300911832#531"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CityGuide-Info.plist -genpkginfo "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app/Info.plist"0#
+
+CProcessPCH /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch.gch CityGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295376232.543164
+e295376233.717522
+r1
+xProcessPCH
+x/var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch.gch
+xCityGuide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CityGuide_Prefix.pch295376232#295376233#0(0"0(0#0#71"/Users/chinmac/Documents/My Applications/CityGuide/CityGuide_Prefix.pch4300911832#1984"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/chinmac/Documents/My Applications/CityGuide/CityGuide_Prefix.pch" -o /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-bdstvqczxbcjwoayjsuanxfpbflg/CityGuide_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-dghtpdackiagqmegxxojagmtmeoz/CityGuide_Prefix.pch.gch CityGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295375098.630965
+e295375099.336177
+r1
+xProcessPCH
+x/var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-dghtpdackiagqmegxxojagmtmeoz/CityGuide_Prefix.pch.gch
+xCityGuide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CityGuide_Prefix.pch295375098#295375099#0(0"0(0#0#71"/Users/chinmac/Documents/My Applications/CityGuide/CityGuide_Prefix.pch4300911832#1986"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-generated-files.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-own-target-headers.hmap" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-all-target-headers.hmap" -iquote "/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/CityGuide-project-headers.hmap" "-F/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/include" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources/i386" "-I/Users/chinmac/Documents/My Applications/CityGuide/build/CityGuide.build/Release-iphonesimulator/CityGuide.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/chinmac/Documents/My Applications/CityGuide/CityGuide_Prefix.pch" -o /var/folders/R9/R9ezppomGu4+Ti7ejAQL0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CityGuide_Prefix-dghtpdackiagqmegxxojagmtmeoz/CityGuide_Prefix.pch.gch0#
+
+CTouch "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app"
+s295376234.087061
+e295376234.090643
+r1
+xTouch
+x/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app
+lSLF07#2@100"Touch /Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app295376234#295376234#0(0"0(0#0#0"4300911832#310"    cd "/Users/chinmac/Documents/My Applications/CityGuide"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/chinmac/Documents/My Applications/CityGuide/build/Release-iphonesimulator/CityGuide.app"0#
+
